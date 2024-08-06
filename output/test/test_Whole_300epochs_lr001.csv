@@ -1,0 +1,6 @@
+,0
+model,Fine tuning model 300ep
+loss,1.628617286682129
+accuracy,0.709314227104187
+sparse,0.709314227104187
+learning_rate,0.001
